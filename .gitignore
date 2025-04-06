@@ -13,6 +13,7 @@
 # macOS system files
 .DS_Store
 
+.vscode/
 
 wandb
 
