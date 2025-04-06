@@ -2,7 +2,7 @@
 
 This is the official implementation for paper "PENCIL: Long Thoughts with Short Memory". 
 
-PENCIL is a framework that enables language models to generate very long CoT using a small context window, for solving larger-scale and more complicated reasoning problems. In short, PENCIL incorporates a cleaning mechanism into CoT that periodically and recursively eliminates intermediate thoughts that are no longer needed for generating future thoughts to manage space efficiently. Theoretically, PENCIL with transformer base model can provably solve any computational tasks with optimal time and space efficiency.
+PENCIL is a generation paradigm that enables language models to generate very long CoT using a small context window, for solving larger-scale and more complicated reasoning problems. In short, PENCIL incorporates a cleaning mechanism into CoT that periodically and recursively eliminates intermediate thoughts that are no longer needed for generating future thoughts to manage space efficiently. Theoretically, PENCIL with transformer base model can provably solve any computational tasks with optimal time and space efficiency.
 
 Materials: 
 [Paper](https://arxiv.org/pdf/2212.09034.pdf)
