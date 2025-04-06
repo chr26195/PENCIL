@@ -1,0 +1,20 @@
+# Binary files
+*.bin
+
+# PyTorch model files
+*.pt
+
+# Python pickle files
+*.pkl
+
+# JSON Lines text files
+*.jsonl
+
+# macOS system files
+.DS_Store
+
+
+wandb
+
+# Byte-compiled / optimized / DLL files
+__pycache__/

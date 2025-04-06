@@ -1,0 +1,16 @@
+// tasks.json
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Auto Git Push",
+        "type": "shell",
+        "command": "git add . && git commit -m 'Auto commit' && git push",
+        // Remove runOptions since they don't auto-trigger
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        }
+      }
+    ]
+  }
