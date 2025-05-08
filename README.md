@@ -7,7 +7,7 @@ PENCIL is a generation paradigm that enables language models to generate very lo
 Materials: 
 [Paper](https://arxiv.org/pdf/2503.14337?)
 
-<img width="900" src="assets/pencil.png">
+<img width="1000" src="assets/animation.gif">
 
 ## Installation
 
